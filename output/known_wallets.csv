@@ -1,0 +1,39 @@
+address,entity_name,category,threat_level,risk_score,confidence,source,onion_source,first_seen,last_seen
+bc1qttv968rzhpdha9rtj5k6dzp4s3jfzppdqjjuef,Verified Live Address: Automated Peeling & Inscription Cluster,peeling_chain,CRITICAL,98,0.99,"Mempool Live Telemetry (139.9 BTC, 141 UTXOs)",mempool_live_node.onion,2024-01-15,2026-09-28
+bc1qa1fa66687f3743ad8098201d274cde86,LockBit 3.0 Ransomware Syndicate,ransomware,CRITICAL,98,0.95,Ransomwhe.re Darknet Feed,atgiqhgjrsnvnq7q.onion,2026-01-21,2026-06-17
+bc1qae21131c387e4e6db6e21438009fe1dc,BlackCat / ALPHV Ransomware Group,ransomware,CRITICAL,96,0.94,FBI Cyber Threat Feed,3rcaviqk43ahejcx.onion,2026-03-30,2026-06-19
+bc1qa4a984a514e540e199bdd3ed73a033e1,Conti Ransomware Locker,ransomware,HIGH,92,0.92,LEA Watchlist,3ictxcwnpgw2jpkl.onion,2026-03-08,2026-06-15
+bc1q75eb4afe4c604d7bad1ec36f3471f793,Hive Ransomware Collector,ransomware,CRITICAL,95,0.93,CISA Threat Advisory,lv2prkgyc6om5wto.onion,2026-02-12,2026-06-15
+bc1q2aa7ef1357094fecbf9f3b9682ce2768,DarkSide / BlackMatter Ransomware,ransomware,HIGH,90,0.91,Dark Web Intelligence Report,mzvrerwzvbhqlqcg.onion,2026-04-01,2026-06-28
+bc1q110fa2c7d8f341f68938a567268423bf,Clop Ransomware Group Treasury,ransomware,CRITICAL,97,0.96,Ransomwhe.re Darknet Feed,wu3hymqc3amx3evu.onion,2026-04-09,2026-06-18
+bc1q39c9ce87d6db4bedab611800d6dc5d6a,Hydra Market Vendor Vault,darknet_market,CRITICAL,99,0.98,Tor Onion Crawler (Hydra Scrape),tt2uzsim2yltzats.onion,2026-02-10,2026-06-28
+bc1q7cfe42e358ee48d79f6cfd815125dabb,Silk Road 3.0 Narcotics Escrow,darknet_market,HIGH,93,0.92,Darknet Forum Scraper,u544n6kfsvfptomj.onion,2026-01-18,2026-06-16
+bc1q46006270b6964d39a6b2bbaac7085412,Bohemia Darknet Market Escrow,darknet_market,CRITICAL,96,0.95,Tor Onion Crawler,p6e52my7zpjag3ol.onion,2026-04-14,2026-06-29
+bc1q116f9b352a11438280e0388078ce2d4b,Russian Market Carding Payout,darknet_market,HIGH,91,0.9,Genesis/Carding Intel Feed,dph5i5u434k64qpr.onion,2026-04-23,2026-06-30
+bc1q3993be9daa35479da9e156d6efaf857a,ASAP Market Automated Deposit,darknet_market,HIGH,89,0.89,Deep Web Monitor,pr4esprvufijoyjn.onion,2026-01-23,2026-06-28
+bc1q209f0dd9569b428db59a01d1f0f0a741,Mega Darknet Market Treasury,darknet_market,CRITICAL,97,0.96,Darknet Onion Intel,2v52dn2yby6awty2.onion,2026-03-24,2026-06-22
+bc1q8adf8ccd7a3c400db5d533c7b8cfef2b,Tornado Cash Multi-Chain Relayer,mixer,CRITICAL,98,0.99,OFAC Sanctions & Chainalysis Feed,7or37byvzk5ibzbf.onion,2026-04-07,2026-06-28
+bc1q3507bf6418eb4c9a9da95d89b6d8d387,Sinbad.io Bitcoin Tumbler Pool,mixer,CRITICAL,97,0.98,OFAC Specially Designated Nationals,i5ldqyun5uvyr2qf.onion,2026-03-16,2026-06-15
+bc1q33673bba4b7d4072affa16a00bebb0aa,Blender.io Obfuscation Engine,mixer,CRITICAL,96,0.97,US Treasury OFAC List,dwoecbpmbjpi6hn5.onion,2026-04-14,2026-06-23
+bc1q2042a6ab55b949a8b72900d2cb29c789,ChipMixer Micro-Split Pool,mixer,CRITICAL,95,0.96,Europol Action Feed,xkhktgbtyzmepgth.onion,2026-03-28,2026-06-16
+bc1q7837f635672642cab4e1d39ef1808c91,Wasabi CoinJoin Coordinator Hub,mixer,HIGH,85,0.88,P2P Network Probe,w3xeva27g3x5j3lr.onion,2026-04-03,2026-06-30
+bc1q5dd89e6b95ed483ab80bf27565597126,YoMix Automated Tumbler Pool,mixer,HIGH,90,0.91,Dark Web Privacy Feed,53rupfr4p5yvb7ul.onion,2026-03-18,2026-06-21
+bc1q4446efc9ff9643278714ecb7bbb6fcb6,Al-Qassam Brigades Cryptopool,terror_financing,CRITICAL,100,0.99,Counter-Terrorism Finance Taskforce,wqvrramfp27p674b.onion,2026-01-26,2026-06-24
+bc1q42ca0e092d1d439eae6b59a0fdcd523a,ISIS-Khurasan Crypto Procurement,terror_financing,CRITICAL,99,0.98,UN Sanctions Committee Report,ozptx6w3vw5rtqoh.onion,2026-04-17,2026-06-21
+bc1qe6bd41170fd44bdab5a335e89b6e816e,Hamas Virtual Asset Campaign,terror_financing,CRITICAL,98,0.97,National Bureau for Counter Financing,uhlmn6rsgmsoxlta.onion,2026-04-15,2026-06-19
+bc1q5e4e851fd7d14e759020fa83e1e25e9a,Lazarus Group (DPRK Cyber Syndicate),sanctions,CRITICAL,100,0.99,OFAC SDN List & CISA,,2026-02-19,2026-06-16
+bc1q63af803b1aa446109ffcd5d4fe44a7da,Garantex Europe Sanctioned OTC,sanctions,HIGH,94,0.95,OFAC Treasury Sanctions,,2026-01-21,2026-06-24
+bc1q66c35e86c9eb4fe793abbd5e82087157,Bitzlato Criminal Exchange Node,sanctions,HIGH,92,0.93,FinCEN Enforcement Action,,2026-04-14,2026-06-19
+bc1q3231c3ffa2334fe59a03f6888e459a5c,SUEX OTC Sanctioned Money Laundering Hub,sanctions,HIGH,93,0.94,OFAC SDN List,,2026-04-06,2026-06-30
+bc1q5c5fc3fb36ec4aaa9cde26164ffb852c,Chatex Sanctioned Crypto Broker,sanctions,HIGH,90,0.91,OFAC SDN List,,2026-01-28,2026-06-15
+bc1qf2cd46baf13b416298bd386181b51fde,PlusToken Ponzi Scheme Reserve,scam,HIGH,92,0.93,Chain Forensic Audit,s664vldq6hez7edj.onion,2026-02-03,2026-06-24
+bc1q8d0d6d81deb74ffe82064f4cee088fc5,Pig-Butchering Fraud Network Alpha,scam,CRITICAL,95,0.94,Global Anti-Scam Watchlist,fph2oy44t3tdgnnq.onion,2026-04-09,2026-06-17
+bc1q6fa9a0378ef0495db04f9306fef341b0,BitConnect Recovery Scam Vault,scam,MEDIUM,78,0.85,Community Fraud Alert,kpleka246scoss5e.onion,2026-04-12,2026-06-22
+bc1qb83e8ce60bcd4a528da9f45a18c9d6f3,OneCoin Illicit Liquidation Wallet,scam,HIGH,88,0.9,SEC Fraud Enforcement,qm3hojrjedkts4h5.onion,2026-04-13,2026-06-24
+bc1q79a196cb2e4b4ccf84804e6fe6145fe0,Anonymous Instant Swap DEX Gateway,high_risk_exchange,HIGH,82,0.86,Risk Intelligence Engine,,2026-04-14,2026-06-27
+bc1q3f2c46da18be4c508f8eae07bb5188e4,No-KYC P2P Russian Escrow Hub,high_risk_exchange,HIGH,85,0.88,Dark Web P2P Monitor,,2026-02-18,2026-06-30
+bc1q6441832389e84cb7bb042d8de40e69aa,Bulletproof Crypto Swap Service,high_risk_exchange,HIGH,84,0.87,Darknet Gateway Monitor,,2026-03-12,2026-06-17
+bc1q6cf3de0ab19349538ae0b09d1edb9797,Binance Institutional Custody,exchange,LOW,10,0.99,Exchange Public Attribution,,2026-04-01,2026-06-16
+bc1q089763bcd0c74741ad1ec2c63dfe7af2,Coinbase Prime Deposit Vault,exchange,LOW,8,0.99,Exchange Public Attribution,,2026-03-11,2026-06-25
+bc1qcc7f6cf88a8d4f79b65fe0a31681f0f6,Kraken Global Cold Reserve,exchange,LOW,12,0.98,Exchange Public Attribution,,2026-04-02,2026-06-23
+bc1q30a88774919e40b587f837b8ec2a6bf0,Bitstamp Liquidity Hot Wallet,exchange,LOW,15,0.97,Exchange Public Attribution,,2026-01-18,2026-06-17

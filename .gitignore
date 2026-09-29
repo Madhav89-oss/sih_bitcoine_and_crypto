@@ -1,0 +1,23 @@
+venv/
+.venv
+.venv/
+.venv_backup/
+.agents/
+__pycache__/
+*.py[cod]
+*$py.class
+.streamlit/
+
+# OS / Editor
+.DS_Store
+*/.DS_Store
+.vscode/
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Large generated datasets (>100MB exceeds GitHub hard limit)
+output/alerts.csv
+output/transactions_1m.csv
