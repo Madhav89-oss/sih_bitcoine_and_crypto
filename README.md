@@ -11,7 +11,7 @@ An offline blockchain intelligence and forensic monitoring platform integrating:
 
 ## 📽️ Referenced Architectures
 
-- **[Video 1: Cryptocurrency Tracking System SIH 2026 \| Dark Web Intelligence AI](https://www.youtube.com/watch?v=a8S-Cw9E0jg)**
+- **[Video 1: Cryptocurrency Tracking System SIH 2026 \| Dark Web Intelligence AI](https://www.youtube.com/watch?v=nAezK4L5Ias)**
   - Dark web intelligence feeds & autonomous Tor onion scraping simulation
   - Illicit categorization: **Darknet Markets, Ransomware Syndicates, Mixers/Tumblers, Sanctions (OFAC), Terrorist Financing, Scams/Fraud, High-Risk Exchanges**
   - Threat Level scoring (`CRITICAL`, `HIGH`, `MEDIUM`, `LOW`) and Risk Scores (0–100)
